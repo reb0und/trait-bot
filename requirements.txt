@@ -1,4 +1,4 @@
-git+https://github.com/reb0und/trait-bot/blob/main/main.py@rewrite
+git+https://github.com/reb0und/trait-bot/blob/main/main.py
 requests==2.25.1
 discord-webhook==0.14.0
 discord.py==1.7.3
