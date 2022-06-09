@@ -1,9 +1,9 @@
-### trait-bot
+# trait-bot
 
 A very old [OpenSea](https://opensea.io/) trait scraper Discord bot. 
 
 
-# Requirements 
+## Requirements 
 - Python 3.x.x or later installed
 - Access to a text editor
 - Discord bot token
@@ -17,8 +17,9 @@ A very old [OpenSea](https://opensea.io/) trait scraper Discord bot.
 `pip3 main.py`
 
 
-# Configuration
+### Configuration
 Feel free to edit the footer image URL, and make sure you configure the bot token to your own!
 
-# Contributions
+
+### Contributions
 Pull requests are welcome!
