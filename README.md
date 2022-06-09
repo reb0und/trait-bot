@@ -1,6 +1,6 @@
 # trait-bot
 
-An [OpenSea](https://opensea.io/) trait scraper Discord bot.
+An [OpenSea](https://opensea.io/) trait scraper Discord bot.  
 <br>
 
 ## Requirements 
