@@ -1,7 +1,7 @@
 # trait-bot
 
-A very old [OpenSea](https://opensea.io/) trait scraper Discord bot. 
-<br>
+A very old [OpenSea](https://opensea.io/) trait scraper Discord bot. <br>
+
 ## Requirements 
 - Python 3.x.x or later installed
 - Access to a text editor
