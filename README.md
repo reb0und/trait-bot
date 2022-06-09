@@ -6,7 +6,8 @@ An [OpenSea](https://opensea.io/) trait scraper Discord bot.
 ## Requirements 
 - Python 3.x.x or later installed
 - Access to a text editor
-- Discord bot token   <br>
+- Discord bot token  
+<br>
 
 ## Install depedencies
 `pip3 install -r requirements.txt` <br>
