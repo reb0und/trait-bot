@@ -3,6 +3,7 @@
 A very old [OpenSea](https://opensea.io/) trait scraper Discord bot. 
 
 
+
 ## Requirements 
 - Python 3.x.x or later installed
 - Access to a text editor
