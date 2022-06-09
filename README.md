@@ -22,5 +22,4 @@ Feel free to edit the footer image URL, and make sure you configure the bot toke
 <br>
 
 ## Contributions
-Pull requests are welcome!  
-<br>
+Pull requests are welcome!
