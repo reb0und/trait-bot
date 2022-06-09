@@ -30,11 +30,11 @@ class Info:
         r = requests.request("GET", url)
         data = json.loads(r.text)
         ctx.embed = discord.Embed(
-            title=data['name'], url=data['permalink'], color=6299062)
+            title=data['name'], url=data['permalink'], color=0000000)
         ctx.embed.set_thumbnail(url=data['image_url'])
 
-        ctx.embed.set_footer(text='Bounce Alerts - {}'.format(data['collection']['name']),
-                             icon_url='https://images-ext-1.discordapp.net/external/s5wGxqDvig16ByPA_YYseNCSxNYSeGtbPYfhiGvSQc4/https/i.imgur.com/S7RDIPo.png')
+        ctx.embed.set_footer(text='OpenSea - {}'.format(data['collection']['name']),
+                             icon_url='https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png')
 
         total = data['collection']['stats']['total_supply']
         for i in data['traits']:
@@ -49,5 +49,4 @@ class Info:
         await ctx.send(embed=ctx.embed)
 
 
-bot.run("ODgwOTMwODM1NDU5NjI5MDg3.YSlcxg.dEG-j7txd1NFAQoxJmtUNpXgxlE")
-#s
+bot.run("your token here")
